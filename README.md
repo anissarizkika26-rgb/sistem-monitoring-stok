@@ -1,4 +1,4 @@
-Proyek Sistem Monitoring Stok dan Penjualan Kantin Kampus
+# Proyek Sistem Monitoring Stok dan Penjualan Kantin Kampus
 Identitas Mahasiswa
 - Nama: Annisa Rizkika
 - NIM: C2583207005
@@ -30,7 +30,7 @@ Indeks yang sama pada setiap array menunjukkan satu produk yang sama. Variabel j
 
 Pastikan komputer sudah memiliki compiler bahasa C, seperti GCC.
 
-### Langkah 1: Menyiapkan File
+###  Langkah 1: Menyiapkan File
 
 Simpan kode program dengan nama:
 

@@ -5,7 +5,7 @@ Identitas Mahasiswa
 - Kelas: PTI 3B
 - Mata kuliah: Algoritma dan Pemrograman Lanjutan
 - Nama proyek: Sistem Monitoring Stok dan Penjualan Kantin Kampus
-2. Deskripsi Proyek
+DESKRIPSI PROYEK
 Program ini merupakan aplikasi console berbasis bahasa C untuk membantu pengelola kantin kampus mengelola produk, harga, stok, transaksi penjualan, pencarian produk, pengurutan, dan laporan penjualan. Data disimpan di dalam array selama program berjalan, sehingga tidak menggunakan database atau file eksternal.
 Daftar Fitur
 1. Menampilkan daftar nama produk, harga, stok, dan jumlah terjual.
